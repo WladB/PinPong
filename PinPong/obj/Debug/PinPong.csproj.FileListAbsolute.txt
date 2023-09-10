@@ -1,0 +1,70 @@
+C:\Users\User\source\repos\PinPong\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\User\source\repos\PinPong\PinPong\bin\Debug\PinPong.exe
+C:\Users\User\source\repos\PinPong\PinPong\bin\Debug\PinPong.pdb
+C:\Users\User\source\repos\PinPong\PinPong\obj\Debug\PinPong.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PinPong\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\User\source\repos\PinPong\PinPong\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PinPong\PinPong\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PinPong\PinPong\obj\Debug\PinPong.exe
+C:\Users\User\source\repos\PinPong\PinPong\obj\Debug\PinPong.pdb
+C:\Users\User\source\repos\PinPong\PinPong\obj\Debug\PinPong.P_area.resources
+C:\Users\User\Desktop\PinPong\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\User\Desktop\PinPong\PinPong\bin\Debug\PinPong.exe
+C:\Users\User\Desktop\PinPong\PinPong\bin\Debug\PinPong.pdb
+C:\Users\User\Desktop\PinPong\PinPong\obj\Debug\PinPong.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PinPong\PinPong\obj\Debug\PinPong.P_area.resources
+C:\Users\User\Desktop\PinPong\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\User\Desktop\PinPong\PinPong\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PinPong\PinPong\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PinPong\PinPong\obj\Debug\PinPong.exe
+C:\Users\User\Desktop\PinPong\PinPong\obj\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\bin\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\bin\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\obj\Debug\PinPong.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\obj\Debug\PinPong.P_area.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\obj\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong\PinPong\obj\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\bin\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\bin\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\obj\Debug\PinPong.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\obj\Debug\PinPong.P_area.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\obj\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong – Резервна копія\PinPong\obj\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\bin\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\bin\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\obj\Debug\PinPong.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\obj\Debug\PinPong.P_area.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\obj\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong Cur\PinPong\obj\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\bin\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\bin\Debug\PinPong.pdb
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\obj\Debug\PinPong.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\obj\Debug\PinPong.P_area.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\obj\Debug\PinPong.exe
+C:\Users\User\Desktop\Projects Visual studio\PinPong_Cur\PinPong\obj\Debug\PinPong.pdb
+C:\Users\User\Desktop\PinPong_Cur\PinPong\bin\Debug\PinPong.exe.config
+C:\Users\User\Desktop\PinPong_Cur\PinPong\bin\Debug\PinPong.exe
+C:\Users\User\Desktop\PinPong_Cur\PinPong\bin\Debug\PinPong.pdb
+C:\Users\User\Desktop\PinPong_Cur\PinPong\obj\Debug\PinPong.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PinPong_Cur\PinPong\obj\Debug\PinPong.P_area.resources
+C:\Users\User\Desktop\PinPong_Cur\PinPong\obj\Debug\PinPong.Properties.Resources.resources
+C:\Users\User\Desktop\PinPong_Cur\PinPong\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PinPong_Cur\PinPong\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PinPong_Cur\PinPong\obj\Debug\PinPong.exe
+C:\Users\User\Desktop\PinPong_Cur\PinPong\obj\Debug\PinPong.pdb
